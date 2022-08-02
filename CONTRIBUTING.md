@@ -3,7 +3,7 @@
 Dear contributors, we, the Miracle Factory team, would like to thank you for your attention and dedication to the refining and improvement of this repository and our community. We hope you enjoy the collaboration and the contribution you make to the development of this repository ❤️.
 
 ## Become a Contributor
-If you are new to collaborating on GitHub, we recommend that you read the and explore the [GitHub Documentation] before starting. Here are some resources to get you started:
+If you are new to collaborating on GitHub, we recommend that you read and explore the [GitHub Documentation] before starting. Here are some resources to get you started:
 > * [Getting Started]
 > * [About Pull Requests]
 > * [Creating a pull request from a fork]
