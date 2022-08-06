@@ -1,4 +1,4 @@
-![miraclefactory_slogan](https://user-images.githubusercontent.com/89094576/181515752-498a1246-080c-4af6-a60c-9abc8689e96a.png)
+![miraclefactory](https://user-images.githubusercontent.com/89094576/183261545-af79478c-4bc2-4274-8a49-1d54497d75b0.png)
 ---
 
 <span align="center">
