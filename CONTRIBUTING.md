@@ -35,15 +35,16 @@ If you have some ideas regarding the opened pull requests, you can make use of t
 After you have created a pull request, your pull request will be reviewed by other contributors of this repository.
 ### Code Review
 You can request a code review from the community leaders. Please comment on your pull request to help them undertsand your changes easily. Under normal circurmstansis, there could be three outcomes for your pull request:   
+> * If the reviewers think that your pull request is a good fit for the repository, they will accept your pull request.    
 > * If the reviewers think that there is something off with your pull request, they might ask you to make changes to your pull request.     
 > * If they think that your pull request is not a good fit for the repository, they might ask you to remove your pull request.   
-> * If the reviewers think that your pull request is a good fit for the repository, they will accept your pull request.
+
 ### Merging
 Once your pull request is approved, you will be able to merge it to the main branch of the repository(if all auto tests checks out). Alternatively, you can choose to let the administrators merge your pull request. Your pull request will be closed after the merge, and your changes will be reflected in the main branch immediately.
 
-**Congratulations, you are now an official contributor to this repository! 🎉**
-**Enjoy your collab with the other contributors in our community! 🤗**
-**May the source be with you, always. 😊**
+**Congratulations, you are now an official contributor to this repository! 🎉**     
+**Enjoy your collab with the other contributors in our community! 🤗**    
+**May the source be with you, always. 😊**    
 
 [GitHub Documentation]: https://docs.github.com/en
 [Getting Started]: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models
