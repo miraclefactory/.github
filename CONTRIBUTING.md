@@ -1,6 +1,6 @@
 # Miracle Factory Contribution Guide
 
-Dear contributors, we, the Miracle Factory team, would like to thank you for your attention and dedication to the refining and improvement of this repository and our community. We hope you enjoy the collaboration and the contribution you make to the development of this repository ❤️.
+Dear contributors, we, the Miracle Factory team, would like to thank you for your attention and dedication to the refining of this repository and our community. We hope that you enjoy the collaboration and the contribution you make to the development of this repository ❤️.
 
 ## Before You Start
 At Miracle Factory, we value the equity of our contributors. In order to foster a healthy community, we ask that you read and follow our [Code of Conduct], and we intend to enforce this code in all of our repositories. And we would also like to remind you to follow this code of conduct in your lives out side of GitHub and the Miracle Factory community.
