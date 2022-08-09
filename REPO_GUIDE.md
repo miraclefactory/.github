@@ -42,11 +42,11 @@ The repository description should be a short summary of the repository's purpose
 
 ### Repository Contributing
 This file is located in the `.github` repository of Miracle Factory. Check if your repository has auto-included the `CONTRIBUTING.md` file(this file should be visible in the "contribute" page of your repo, not in the root directory of your repo). If it is not visible in the "contribute" page, add it to the root directory of your repository.
-> <img width="1249" alt="contributing-screen-shot" src="https://user-images.githubusercontent.com/89094576/183598711-32bcc3d2-0c71-495a-9a57-b4438e57d36d.png">
+> <img width="1249" alt="contributing-screen-shot" src="https://user-images.githubusercontent.com/89094576/183600626-7ff44a51-5983-4e26-b003-f14d16637bb3.png">
 
 ### Repository Code of Conduct
 This file is located in the `.github` repository of Miracle Factory. Check if your repository has auto-included the `CODE_OF_CONDUCT.md` file(this file should be visible in the repo description bar). If it is not visible, add it to the root directory of your repository.
-> <img width="183" alt="codeofconduct-screen-shot" src="https://user-images.githubusercontent.com/89094576/183598745-03b4efa4-6822-415a-a473-0e550e60f5d9.png">
+> <img width="183" alt="codeofconduct-screen-shot" src="https://user-images.githubusercontent.com/89094576/183600713-2667725c-29ea-4828-a081-251e6ef875df.png">
 
 ### Repository README
 You should have a README.md file in your repository. Describe the repository in detail.
