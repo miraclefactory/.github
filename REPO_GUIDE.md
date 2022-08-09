@@ -16,7 +16,7 @@ In addition, the first letter of every word in the repository name must be capit
 > * MF-Project-Official-Website
 > * MF-Research-2SDS
 
-### Miracle Factory Custom Repositories
+### Custom Repositories
 If your repository is your custom repository that is not an officially-built repository of Miracle Factory, you can use the following naming convention:
 > `[<repo_type>]<repo_name>`     
 
