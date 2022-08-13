@@ -31,7 +31,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 **Test details**:
 * Hardware:
 * TestToolchain:
-* Issues(if possible, please elaborate)
+* Issues(if possible, please elaborate):
 
 # Checklist:
 
