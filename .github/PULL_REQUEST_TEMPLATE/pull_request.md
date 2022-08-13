@@ -8,7 +8,7 @@ labels: ''
 
 # Description
 
-Please give a summary of your work and indicate the context of your work(in case that others who do not catch up with the lastest development process.)
+Please give a summary of your work and indicate the context of your work(in case that others do not catch up with the lastest development process.)
 And most importantly, notify the related issue.
 Fixes # (issue)
 
@@ -45,6 +45,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Any dependent changes have been merged and published in downstream modules
 
 # Final Advices before lanuch 🚀:
-* Make your pull request small, if its size exceeded 300 lines of code, consider bifurcate your code into serval packs.
+* Make your pull request small, if its size exceeded 300 lines of code, consider bifurcate your code into several packs.
 * Make your code DRY and follow the single responsibility principle.
 * Make your title self-explanatory.
