@@ -1,6 +1,6 @@
 ---
 name: New Pull Request
-about: Bug fixes / New features
+about: Bug fixes / New features / ...
 title: ''
 labels: ''
 
@@ -12,7 +12,7 @@ Please give a summary of your work and indicate the context of your work(in case
 And most importantly, notify the related issue.
 Fixes # (issue)
 
-## Type of change
+## Type of Change
 
 Please delete irrelevant options. 
 
@@ -28,7 +28,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Manual Test
 - [ ] Integrated Unit Test
 
-**Test details**:
+**Test Details**:
 * Hardware:
 * System or environment info:
 * TestToolchain:
@@ -45,7 +45,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-# Final Advices before launch 🚀:
+# Final Advices Before Launch 🚀:
 * Make your pull request small, if its size exceeded 300 lines of code, consider bifurcate your code into several packs.
 * Make your code DRY and follow the single responsibility principle.
 * Make your title self-explanatory.
