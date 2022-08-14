@@ -21,7 +21,7 @@ Please delete irrelevant options.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# How Has This Been Tested?
+# How Have Your Changes Been Tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also describe details for your test suite if possible.
 
@@ -30,6 +30,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 **Test details**:
 * Hardware:
+* System or environment info:
 * TestToolchain:
 * Issues(if possible, please elaborate):
 
@@ -44,7 +45,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-# Final Advices before lanuch 🚀:
+# Final Advices before launch 🚀:
 * Make your pull request small, if its size exceeded 300 lines of code, consider bifurcate your code into several packs.
 * Make your code DRY and follow the single responsibility principle.
 * Make your title self-explanatory.
