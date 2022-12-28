@@ -1,33 +1,9 @@
-# Miracle Factory Repo Guide
+# <img src="https://staticfile.osl.ink/staticFiles/mf-logo.svg" height=22 /> Miracle Factory Repo Guide 
 
 Dear members of the Miracle Factory community, this repo guide is a quick reference to help you get started with building your repository under Miracle Factory.
 
 ## Name Your Repository
-### Miracle Factory Officially-built Repositories
-If your repository is identified as an officially-built repository of Miracle Factory, you can use the following naming convention:   
-> `MF-<repo_type>-<repo_name>`     
-
-Where `<repo_type>` is the type of repository, which can be one of the following:    
-> * Project
-> * Research     
-
-In addition, the first letter of every word in the repository name must be capitalized, the words are separated by hyphens('-').   
-> Examples of this type of naming:  
-> * MF-Project-Official-Website
-> * MF-Research-2SDS
-
-### Custom Repositories
-If your repository is your custom repository that is not an officially-built repository of Miracle Factory, you can use the following naming convention:
-> `[<repo_type>]<repo_name>`     
-
-Where `<repo_type>` is the type of repository, which can be one of the following:
-> * Project
-> * Research
-
-In addition, the first letter of every word in the repository name must be capitalized, the words are separated by hyphens('-').
-> Examples of this type of naming:
-> * [Project]My-Custom-Website
-> * [Research]Octocat-Classifier
+The previous rules of naming your repository have been removed. Now, there are no restriction on how you name your repository, but please use good names and semantically make sence ones.
 
 ## Community Repo Standards
 ### Repository Description
