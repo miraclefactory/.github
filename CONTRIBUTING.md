@@ -1,4 +1,4 @@
-# Miracle Factory Contribution Guide
+# <img src="https://staticfile.osl.ink/staticFiles/mf-logo.svg" height=22 /> Miracle Factory Contribution Guide
 
 Dear contributors, we, the Miracle Factory team, would like to thank you for your attention and dedication to the refining of this repository and our community. We hope that you enjoy the collaboration and the contribution you make to the development of this repository ❤️.
 
