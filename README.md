@@ -1,4 +1,4 @@
-# .github
+# <img src="https://staticfile.osl.ink/staticFiles/mf-logo.svg" height=22 /> .github
 This is the GitHub profile configuration repository of Miracle Factory.
 
 ### Help us build our community! 🌟
