@@ -2,8 +2,6 @@
 
 <span align="center">
 
-We are a community of creators and inventors, dedicated to build AI systems in service of humanity.
-
 [**Join Us / Contact Us / Follow Us**](https://miraclefactory.ai)
 
 </span>
