@@ -1,4 +1,4 @@
-![mf-banner](https://github.com/miraclefactory/.github/assets/89094576/d5b89b89-18f7-472a-ae4f-12d6db5f257c)
+![mf-banner](https://github.com/miraclefactory/.github/assets/89094576/730388ea-9176-40c6-9704-0813f99d97f4)
 
 <span align="center">
 
