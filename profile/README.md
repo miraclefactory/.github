@@ -1,10 +1,8 @@
-![miraclefactory](https://user-images.githubusercontent.com/89094576/183261545-af79478c-4bc2-4274-8a49-1d54497d75b0.png)
----
+![mf-banner](https://github.com/miraclefactory/.github/assets/89094576/d5b89b89-18f7-472a-ae4f-12d6db5f257c)
 
 <span align="center">
 
-We are a community of creators, inventors, dreamers and artists, devoted to building AI systems and conceptual products that enrich people's lives. We are the believers of our own ideas, the missionaries of knowledge and science, the sailors on the ship of discoveries. We were born to change the world.
-The one and only Miracle Factory.
+We are a community of creators and inventors, dedicated to build AI systems in service of humanity.
 
 [**Join Us / Contact Us / Follow Us**](https://miraclefactory.ai)
 
