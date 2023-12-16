@@ -1,4 +1,4 @@
-# <img src="https://staticfile.osl.ink/staticFiles/mf-logo.svg" height=22 /> .github
+# <img height="22" alt="mf-logo" src="https://github.com/miraclefactory/.github/assets/89094576/21774f34-ade2-45e3-966a-c2ff984af117"> .github 
 This is the GitHub profile configuration repository of Miracle Factory.
 
 ### Help us build our community! 🌟
