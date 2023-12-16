@@ -1,4 +1,4 @@
-# <img src="https://staticfile.osl.ink/staticFiles/mf-logo.svg" height=22 /> Contributor Covenant Code of Conduct
+# <img height="22" alt="mf-logo" src="https://github.com/miraclefactory/.github/assets/89094576/21774f34-ade2-45e3-966a-c2ff984af117"> Contributor Covenant Code of Conduct
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
